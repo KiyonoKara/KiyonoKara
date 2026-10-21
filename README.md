@@ -2,4 +2,6 @@
 [Gist Page](https://gist.github.com/KiyonoKara)
 
 
-If you like my work: [Ko-fi](https://ko-fi.com/kiyo1)
+If you like my work...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U3Y4296IXX)
